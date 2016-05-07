@@ -1,0 +1,145 @@
+Most:使用頻度
+順位,チャンピオン名,Count     
+   1,Kindred        ,2062.000
+   2,LeeSin         ,1928.000
+   3,Yasuo          ,1553.000
+   4,Thresh         ,1536.000
+   5,Jinx           ,1529.000
+   6,Vayne          ,1457.000
+   7,Riven          ,1383.000
+   8,Blitzcrank     ,1089.000
+   9,TahmKench      ,944.000
+  10,Fiora          ,912.000
+
+Least:使用頻度
+順位,チャンピオン名,Count     
+ 1,Urgot          ,27.000
+ 2,Galio          ,41.000
+ 3,Yorick         ,56.000
+ 4,Swain          ,70.000
+ 5,Sejuani        ,71.000
+ 6,Kayle          ,77.000
+ 7,Skarner        ,81.000
+ 8,Poppy          ,88.000
+ 9,Maokai         ,90.000
+10,Ziggs          ,90.000
+
+
+
+
+Most:Average Kills
+順位,チャンピオン名,Count     
+   1,Syndra         ,9.444
+   2,Fizz           ,9.303
+   3,Twitch         ,9.264
+   4,Rengar         ,9.063
+   5,Talon          ,9.016
+   6,Khazix         ,8.984
+   7,Katarina       ,8.952
+   8,Leblanc        ,8.818
+   9,Zed            ,8.791
+  10,Quinn          ,8.643
+
+Least:Average Kills
+順位,チャンピオン名,Count     
+ 1,Soraka         ,1.016
+ 2,Janna          ,1.037
+ 3,Nami           ,1.973
+ 4,Alistar        ,2.169
+ 5,Braum          ,2.179
+ 6,Thresh         ,2.335
+ 7,Leona          ,2.559
+ 8,Sona           ,2.992
+ 9,Nautilus       ,2.993
+10,Bard           ,3.007
+
+
+
+
+Most:Average Assists
+順位,チャンピオン名,Count     
+   1,Nami           ,15.750
+   2,Braum          ,15.590
+   3,Soraka         ,15.589
+   4,Janna          ,15.210
+   5,Thresh         ,14.988
+   6,Sona           ,14.608
+   7,Alistar        ,14.373
+   8,Leona          ,14.301
+   9,Bard           ,14.033
+  10,Taric          ,13.867
+
+Least:Average Assists
+順位,チャンピオン名,Count     
+ 1,MasterYi       ,5.119
+ 2,Riven          ,5.389
+ 3,Tryndamere     ,5.443
+ 4,Garen          ,5.673
+ 5,Fiora          ,5.856
+ 6,Zed            ,5.868
+ 7,Jax            ,5.950
+ 8,Darius         ,5.974
+ 9,Poppy          ,6.034
+10,Akali          ,6.071
+
+
+
+
+Most:Average Deaths
+順位,チャンピオン名,Count     
+   1,Karthus        ,7.893
+   2,Yasuo          ,7.623
+   3,Urgot          ,7.407
+   4,Galio          ,7.366
+   5,Annie          ,7.331
+   6,Quinn          ,7.240
+   7,Azir           ,7.230
+   8,Akali          ,7.212
+   9,Syndra         ,7.211
+  10,Zyra           ,7.131
+
+Least:Average Deaths
+順位,チャンピオン名,Count     
+ 1,Zac            ,4.702
+ 2,Janna          ,4.713
+ 3,Skarner        ,5.074
+ 4,Malphite       ,5.150
+ 5,Shen           ,5.358
+ 6,Trundle        ,5.363
+ 7,Lulu           ,5.414
+ 8,Garen          ,5.439
+ 9,Lux            ,5.487
+10,Anivia         ,5.500
+
+
+
+
+Most:Kill-Death Rate
+順位,チャンピオン名,Count     
+   1,Leblanc        ,1.476
+   2,Corki          ,1.429
+   3,Khazix         ,1.364
+   4,Twitch         ,1.347
+   5,MissFortune    ,1.322
+   6,Nocturne       ,1.320
+   7,Fizz           ,1.318
+   8,Syndra         ,1.310
+   9,KogMaw         ,1.309
+  10,Graves         ,1.306
+
+Least:Kill-Death Rate
+順位,チャンピオン名,Count     
+ 1,Soraka         ,0.178
+ 2,Janna          ,0.220
+ 3,Nami           ,0.342
+ 4,Thresh         ,0.356
+ 5,Braum          ,0.361
+ 6,Alistar        ,0.382
+ 7,Leona          ,0.395
+ 8,Blitzcrank     ,0.468
+ 9,Taric          ,0.484
+10,Sona           ,0.485
+
+
+
+
