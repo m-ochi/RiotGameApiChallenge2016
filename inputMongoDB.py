@@ -21,8 +21,8 @@ class InputDB:
 
     def __init__(self):
         place = os.path.abspath(os.path.dirname(__file__))
-        self.mongoDBUser = "ochi"
-        self.mongoDBUserPassword = "ud0nud0n"
+        self.mongoDBUser = "***"
+        self.mongoDBUserPassword = "***"
         self.mongoDBCollection = "game_results"
         self.dirHeader = place + '/' + "results"
         self.getGameIDsFile = place + '/' + "registerGames.pickle"

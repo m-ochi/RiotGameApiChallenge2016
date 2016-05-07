@@ -17,7 +17,7 @@ import time
 
 class LoLAPI:
 
-    def __init__(self, apikey="287acac8-4cae-4106-b378-652cc81c5075", region="na", version="v1.2"):
+    def __init__(self, apikey="***", region="na", version="v1.2"):
         self.apikey=apikey
         self.region=region
         self.version=version
