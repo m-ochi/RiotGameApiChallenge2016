@@ -1,51 +1,12 @@
-League of Legendsのクローラー
+Riot Api Challenge 2016
 =======================
 
-## 説明
- Leagure of Legendsをクロールするためのプログラム。
- APIを利用して取得を行う．
- ひとまずデータを取ってチームワークの研究に使えないか検討
+## Software
+- Our product is Web pages [here](./lol_apichallenge2016/index.html)
 
-## How to Use
-- lolapi.py: LoLのAPIをまとめたライブラリ
-- lolcrawler.py: LoLのCrawler本体
-- inputMongoDB.py: 取得したデータをMongoDBに格納する
-- crontabSample.txt: cronの設定例
-- sampleAnalysis.py: 試しにMongoDB内のデータを集計してみた例
+## Title
+- **What is the absolute best or worst role combination of team members ?**
 
-```
-python lolCrawler.py
-```
-
-## クロールしたデータについて
-- resultyyyymmddHH/gameIDxxxxxxx.json の形式で保存
-- gameIDは同じものが時々複数あるので注意
-
-## Files
-- lolCraler.py: LoLのクローラー本体.
-
-## Memos
-- FeaturedGamesからGameIDとSummonerNameを取得→SummonerNameからSummonerID取得→SummonerID，GameIDから詳細データ取得
-という流れが良さそう
-
-
-## クロールの流れ
-1. FeaturedGamesで最近のゲームを取得
-2. ParticipantsのSummonerNamesを取得
-3. SummonerNamesを使ってSummonerIdを取得
-4. SummonerIdを使ってSummonerGamesを取得
-5. SummonerGamesからMatchStatsを取得
-6. 保存
-
-## tatooineのmongodbの入り方(コマンドライン)
-1. mongo
-2. use admin
-3. db.auth("tang","ud0nud0n")
-4. use lol
-5. show dbs
-
-
-
-
-
-
+## Description
+- We are forced to save the traditional member role by other teammates, so we can't select champions and play freely.
+- So, We want to clear the effect of member role or find other serendipitous team up.
