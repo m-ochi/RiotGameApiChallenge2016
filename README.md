@@ -2,7 +2,7 @@ Riot Api Challenge 2016
 =======================
 
 ## Software
-- Our product is Web pages [here](./lol_apichallenge2016/index.html)
+- Our product is Web pages. [here](./lol_apichallenge2016/index.html)
 
 ## Title
 - **What is the absolute best or worst role combination of team members?**
