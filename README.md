@@ -8,5 +8,5 @@ Riot Api Challenge 2016
 - **What is the absolute best or worst role combination of team members?**
 
 ## Description
-- We are forced to save the traditional member role by other teammates, so we can't select champions and play freely.
-- So, We want to clear the effect of member role or find other serendipitous team up.
+- We are forced to save the traditional member role by other teammates, hence we can't select champions and play freely.
+- So, we want to clear the effect of member role or find other serendipitous team up.
