@@ -9,4 +9,4 @@ Riot Api Challenge 2016
 
 ## Description
 - We are forced to save the traditional member role by other teammates, hence we can't select champions and play freely.
-- So, we want to clear the effect of member role or find other serendipitous team up.
+- So, we want to clarify the effect of member role or find other serendipitous team up.
