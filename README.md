@@ -5,7 +5,7 @@ Riot Api Challenge 2016
 - Our product is Web pages [here](./lol_apichallenge2016/index.html)
 
 ## Title
-- **What is the absolute best or worst role combination of team members ?**
+- **What is the absolute best or worst role combination of team members?**
 
 ## Description
 - We are forced to save the traditional member role by other teammates, so we can't select champions and play freely.
